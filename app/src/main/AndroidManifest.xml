@@ -35,6 +35,9 @@
         <meta-data
             android:name="com.google.android.gms.ads.AD_MANAGER_APP"
             android:value="true" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
 
         <activity android:name=".fingerprint.HomeActivity" />
         <activity android:name=".fingerprint.FingerPrintActivity" />
