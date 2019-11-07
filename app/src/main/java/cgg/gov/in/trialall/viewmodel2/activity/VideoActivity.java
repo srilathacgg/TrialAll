@@ -2,11 +2,12 @@ package cgg.gov.in.trialall.viewmodel2.activity;
 
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.MediaController;
 import android.widget.VideoView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import cgg.gov.in.trialall.R;
 import cgg.gov.in.trialall.viewmodel2.fragments.VideoFragment;
